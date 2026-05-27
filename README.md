@@ -25,3 +25,9 @@ I want to learn how to make PCBs, and this seemed like a good idea. I wanted to 
 | 1µF | C9,C10,C11,C12 | 4 | 2.75 | https://www.digikey.com/en/mylists/list/BA1MMOEV0W/quote/18716729 | Digikey |
 | Wio-SX1262 | LoRa Module | 1 | 8.58 | https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html | Seeed Studio |
 
+# Pictures
+
+<img width="1614" height="1010" alt="Screenshot 2026-05-26 170743" src="https://github.com/user-attachments/assets/a88bcc53-5c14-4ed0-9e13-37e70b9976f4" />
+<img width="710" height="1183" alt="Screenshot 2026-05-26 220120" src="https://github.com/user-attachments/assets/27548110-11dd-4b80-aa96-04d1b8e2c454" />
+<img width="1399" height="962" alt="Screenshot 2026-05-26 215936" src="https://github.com/user-attachments/assets/a5c0b567-205c-4e46-8515-db4a338206ec" />
+
